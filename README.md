@@ -15,3 +15,4 @@ Add the NishBoatsPrefab to your hierarchy and that's it! There are integrated re
 
 Happy Sailing! -Nish
 
+Demo World: https://vrchat.com/home/world/wrld_2a50fa1f-9db9-422b-a480-774d234b3038
